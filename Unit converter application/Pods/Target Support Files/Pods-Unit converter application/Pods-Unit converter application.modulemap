@@ -1,0 +1,6 @@
+framework module Pods_Unit_converter_application {
+  umbrella header "Pods-Unit converter application-umbrella.h"
+
+  export *
+  module * { export * }
+}
